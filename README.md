@@ -1,4 +1,4 @@
 # calculator
-keep updating for this "Calcultor"
-if any suggest please commend your suggestion
-thank you
+Keep updating for this "Calcultor", 
+if there's any suggest please commend your suggestion, 
+thank you.
